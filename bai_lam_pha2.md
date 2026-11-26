@@ -3,7 +3,7 @@
 - **Mã đề:** 09
 - **Họ tên:**Nguyễn Đăng Hoàng
 - **Lớp:**CNTT1
-- **Link repository Pha2:**
+- **Link repository Pha2:**https://github.com/hoangmit1904/HN-KS26-CNTT1_PromptAI_H02_Pha1_Pha2
 - **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):**Gemini
 
 > Pha 2 (20 phút cuối). Mỗi mục: mở cuộc trò chuyện mới, gửi nguyên văn prompt đã viết trong bai_lam_pha1.md, dán câu trả lời và link chia sẻ vào đây. Xong, kéo thả file này vào repository Pha2.
