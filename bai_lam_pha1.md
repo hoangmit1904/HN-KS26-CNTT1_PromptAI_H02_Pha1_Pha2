@@ -2,8 +2,8 @@
 
 - **Mã đề:** 09
 - **Họ tên:**Nguyễn Đăng Hoàng
-- **Lớp:**
-- **Link repository Pha1:**
+- **Lớp:**CNTT1
+- **Link repository Pha1:**https://github.com/hoangmit1904/HN-KS26-CNTT1_PromptAI_H02_Pha1_Pha2
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
